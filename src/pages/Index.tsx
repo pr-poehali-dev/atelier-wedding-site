@@ -14,7 +14,7 @@ const Index = () => {
           <nav className="flex items-center justify-between">
             <div className="flex items-center space-x-2">
               <Icon name="Scissors" size={24} className="text-gold" />
-              <h1 className="text-2xl font-playfair font-bold text-charcoal">ATELIER BOUTIQUE</h1>
+              <h1 className="text-2xl font-playfair font-bold text-charcoal">КУЛЬТРА</h1>
             </div>
             <div className="hidden md:flex items-center space-x-8 font-lato">
               <a href="#services" className="text-charcoal hover:text-gold transition-colors">Услуги</a>
@@ -36,13 +36,13 @@ const Index = () => {
         <div className="container mx-auto px-4">
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div>
-              <Badge className="mb-4 bg-gold/10 text-gold border-gold/20">Эксклюзивное ателье</Badge>
+              <Badge className="mb-4 bg-gold/10 text-gold border-gold/20">Свадебный салон</Badge>
               <h1 className="text-5xl md:text-6xl font-playfair font-bold text-charcoal mb-6 leading-tight">
                 Ваш стиль,<br />
                 <span className="text-gold">наше мастерство</span>
               </h1>
               <p className="text-xl text-gray-600 mb-8 font-lato leading-relaxed">
-                Профессиональное ателье и свадебный салон с более чем 15-летним опытом. 
+                Свадебный салон КУЛЬТРА с более чем 15-летним опытом. 
                 Создаем уникальные образы для особых моментов вашей жизни.
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
@@ -268,7 +268,7 @@ const Index = () => {
                         <Icon name="Mail" size={20} className="text-gold mr-3 mt-1" />
                         <div>
                           <p className="font-lato font-medium text-charcoal">Email</p>
-                          <p className="text-gray-600 font-lato">info@atelier-boutique.ru</p>
+                          <p className="text-gray-600 font-lato">info@kultura-salon.ru</p>
                         </div>
                       </div>
                     </div>
@@ -287,7 +287,7 @@ const Index = () => {
             <div>
               <div className="flex items-center space-x-2 mb-4">
                 <Icon name="Scissors" size={24} className="text-gold" />
-                <h3 className="text-xl font-playfair font-bold">ATELIER BOUTIQUE</h3>
+                <h3 className="text-xl font-playfair font-bold">КУЛЬТРА</h3>
               </div>
               <p className="text-gray-400 font-lato">
                 Создаем уникальные образы для особых моментов вашей жизни
@@ -332,7 +332,7 @@ const Index = () => {
           
           <div className="border-t border-gray-800 mt-8 pt-8 text-center">
             <p className="text-gray-400 font-lato">
-              © 2024 Atelier Boutique. Все права защищены.
+              © 2024 Свадебный салон КУЛЬТРА. Все права защищены.
             </p>
           </div>
         </div>
